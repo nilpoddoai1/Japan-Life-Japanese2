@@ -1,0 +1,9 @@
+[
+  { "label": "Home", "href": "/" },
+  { "label": "Learn", "href": "/japanese-learning" },
+  { "label": "Life", "href": "/daily-life" },
+  { "label": "Driving", "href": "/driving-license" },
+  { "label": "Emergency", "href": "/emergency" },
+  { "label": "Resources", "href": "/useful-links" },
+  { "label": "About", "href": "/about" }
+]

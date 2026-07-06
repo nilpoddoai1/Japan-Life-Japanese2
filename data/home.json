@@ -1,0 +1,31 @@
+{
+  "dailyWords": [
+    {
+      "word": "よろしくお願いします",
+      "meaning": "Nice to meet you / Please treat me well",
+      "example": "はじめまして。よろしくお願いします。"
+    }
+  ],
+  "quickAccess": [
+    { "title": "Learn Japanese", "description": "Browse practical vocabulary and example sentences.", "href": "/japanese-learning" },
+    { "title": "Driving Test Guide", "description": "Review road signs, vocabulary, and sample questions.", "href": "/driving-license" },
+    { "title": "Hospital Guide", "description": "Find health care terms and useful support resources.", "href": "/daily-life" },
+    { "title": "City Office Guide", "description": "Understand residency, registration, and city hall processes.", "href": "/daily-life" },
+    { "title": "Transportation", "description": "Learn common transit phrases and travel tips.", "href": "/daily-life" },
+    { "title": "Emergency Numbers", "description": "Keep essential emergency contact details handy.", "href": "/emergency" }
+  ],
+  "tips": [
+    {
+      "title": "How to register your address in Japan",
+      "description": "Visit your city office within 14 days and bring your residence card, passport, and a completed moving-in notice."
+    },
+    {
+      "title": "Using public transport",
+      "description": "Pay with IC cards like Suica or Pasmo and ask for assistance at ticket offices when needed."
+    },
+    {
+      "title": "Buy a SIM card",
+      "description": "Choose a prepaid plan for short stays or a contract plan for longer stays with coverage from major carriers."
+    }
+  ]
+}
